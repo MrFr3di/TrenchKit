@@ -155,7 +155,7 @@ Backed up %2 mod file(s)</source>
         <translation>Резервная копия успешно создана:
 %1
 
-Сохранено файлов модов: %2</translation>
+Файлов модов сохранено: %2</translation>
     </message>
     <message>
         <source>No backups found</source>
@@ -187,7 +187,7 @@ Backed up %2 mod file(s)</source>
 Restored %1 mod file(s)</source>
         <translation>Резервная копия успешно восстановлена
 
-Восстановлено файлов модов: %1</translation>
+Файлов модов восстановлено: %1</translation>
     </message>
 </context>
 <context>
