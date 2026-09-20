@@ -696,7 +696,7 @@ Cancel to restore mods and stop the launch.</source>
 They will be automatically restored when the game closes.
 
 Continue?</source>
-        <translation>Временно будут отключены моды (%1).
+        <translation>Временно будут отключены моды: %1.
 
 После закрытия игры они будут автоматически восстановлены.
 
@@ -843,11 +843,11 @@ Continue?</source>
     </message>
     <message>
         <source>Downloading update (%1 / %2 MB)</source>
-        <translation>Скачивание обновления (%1 / %2 МБ)</translation>
+        <translation>Загрузка обновления (%1 / %2 МБ)</translation>
     </message>
     <message>
         <source>Downloading update...</source>
-        <translation>Скачивание обновления...</translation>
+        <translation>Загрузка обновления...</translation>
     </message>
     <message>
         <source>Installing update...</source>
@@ -863,7 +863,7 @@ Continue?</source>
     </message>
     <message>
         <source>Update Download</source>
-        <translation>Скачивание обновления</translation>
+        <translation>Загрузка обновления</translation>
     </message>
     <message>
         <source>Failed to clear existing staging directory.</source>
@@ -1438,7 +1438,7 @@ If browser doesn&apos;t open, visit:
     </message>
     <message>
         <source>Download File %1 of %2</source>
-        <translation>Скачайте файл %1 из %2</translation>
+        <translation>Загрузка файла %1 из %2</translation>
     </message>
     <message>
         <source>Downloading: %1
@@ -1795,7 +1795,7 @@ Do you want to load the profile anyway with available mods only?</source>
     </message>
     <message>
         <source>Updater</source>
-        <translation>Обновление</translation>
+        <translation>Обновление программы</translation>
     </message>
     <message>
         <source>Current version</source>
