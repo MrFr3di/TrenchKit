@@ -581,7 +581,7 @@ Choose how to proceed:</source>
     <name>ItchRegistrationModalContent</name>
     <message>
         <source>Register Mod with itch.io</source>
-        <translation>Связать мод с itch.io</translation>
+        <translation>Привязать мод к itch.io</translation>
     </message>
     <message>
         <source>Fetch Game Info</source>
@@ -597,7 +597,7 @@ Choose how to proceed:</source>
     </message>
     <message>
         <source>Registering: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Связывание: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation>Привязка: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Enter itch.io URL for this mod:</source>
@@ -696,7 +696,7 @@ Cancel to restore mods and stop the launch.</source>
 They will be automatically restored when the game closes.
 
 Continue?</source>
-        <translation>Будут временно отключены включённые моды: %1.
+        <translation>Временно будут отключены моды (%1).
 
 После закрытия игры они будут автоматически восстановлены.
 
@@ -708,7 +708,7 @@ Continue?</source>
     </message>
     <message>
         <source>Restored %1 mod(s) that were disabled for vanilla gameplay.</source>
-        <translation>Восстановлено модов после игры без модов: %1.</translation>
+        <translation>Восстановлено ранее отключённых модов: %1.</translation>
     </message>
 </context>
 <context>
@@ -949,11 +949,11 @@ Continue?</source>
     </message>
     <message>
         <source>Register with Nexus Mods</source>
-        <translation>Связать с Nexus Mods</translation>
+        <translation>Привязать к Nexus Mods</translation>
     </message>
     <message>
         <source>Register with itch.io</source>
-        <translation>Связать с itch.io</translation>
+        <translation>Привязать к itch.io</translation>
     </message>
     <message>
         <source>Open Nexus Mods Page</source>
@@ -1052,7 +1052,7 @@ Continue?</source>
     </message>
     <message>
         <source>Paks directory not found: %1</source>
-        <translation>Каталог Paks не найден: %1</translation>
+        <translation>Папка Paks не найдена: %1</translation>
     </message>
     <message>
         <source>Mod file not found in storage: %1</source>
@@ -1257,7 +1257,7 @@ Continue?</source>
     </message>
     <message>
         <source>Premium Required</source>
-        <translation>Требуется Premium</translation>
+        <translation>Требуется Nexus Mods Premium</translation>
     </message>
     <message>
         <source>Direct updates via API require a Nexus Mods Premium account.
@@ -1438,7 +1438,7 @@ If browser doesn&apos;t open, visit:
     </message>
     <message>
         <source>Download File %1 of %2</source>
-        <translation>Загрузка файла %1 из %2</translation>
+        <translation>Скачайте файл %1 из %2</translation>
     </message>
     <message>
         <source>Downloading: %1
@@ -1446,7 +1446,7 @@ If browser doesn&apos;t open, visit:
 The browser will open. Please download the file.
 
 Once complete, click OK to locate it.</source>
-        <translation>Загрузка: %1
+        <translation>Файл для загрузки: %1
 
 Откроется браузер. Скачайте файл.
 
@@ -1494,7 +1494,7 @@ Once the download is complete, click OK to locate the file.</source>
     </message>
     <message>
         <source>Premium Required</source>
-        <translation>Требуется Premium</translation>
+        <translation>Требуется Nexus Mods Premium</translation>
     </message>
     <message>
         <source>Direct downloads via API require a Nexus Mods Premium account.
@@ -1549,7 +1549,7 @@ The mod will be installed with Nexus metadata for future updates.</source>
     <name>NexusRegistrationModalContent</name>
     <message>
         <source>Register Mod with Nexus Mods</source>
-        <translation>Связать мод с Nexus Mods</translation>
+        <translation>Привязать мод к Nexus Mods</translation>
     </message>
     <message>
         <source>Fetch Mod Info</source>
@@ -1565,7 +1565,7 @@ The mod will be installed with Nexus metadata for future updates.</source>
     </message>
     <message>
         <source>Registering: &lt;b&gt;%1&lt;/b&gt;</source>
-        <translation>Связывание: &lt;b&gt;%1&lt;/b&gt;</translation>
+        <translation>Привязка: &lt;b&gt;%1&lt;/b&gt;</translation>
     </message>
     <message>
         <source>Enter Nexus Mods URL for this mod:</source>
@@ -1677,7 +1677,7 @@ If browser doesn&apos;t open, visit:
     </message>
     <message>
         <source>Update profile &apos;%1&apos; with current mod configuration?</source>
-        <translation>Обновить профиль &apos;%1&apos; текущей конфигурацией модов?</translation>
+        <translation>Сохранить текущую конфигурацию модов в профиль &apos;%1&apos;?</translation>
     </message>
     <message>
         <source>Profile updated successfully!</source>
@@ -1939,7 +1939,7 @@ Do you want to load the profile anyway with available mods only?</source>
     </message>
     <message>
         <source>Not associated</source>
-        <translation>Не связано</translation>
+        <translation>Обработчик не назначен</translation>
     </message>
     <message>
         <source>Updater Settings</source>
@@ -1959,7 +1959,7 @@ Do you want to load the profile anyway with available mods only?</source>
     </message>
     <message>
         <source>Associated</source>
-        <translation>Связано</translation>
+        <translation>Обработчик назначен</translation>
     </message>
     <message>
         <source>Copied!</source>
