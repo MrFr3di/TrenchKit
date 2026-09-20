@@ -917,7 +917,7 @@ Continue?</source>
     </message>
     <message>
         <source>Check for Updates</source>
-        <translation>Проверить обновления</translation>
+        <translation>Обновления</translation>
     </message>
     <message>
         <source>%1 (dependency: %2, this mod: %3)</source>
@@ -985,7 +985,7 @@ Continue?</source>
     </message>
     <message>
         <source>Check for Updates (%1)</source>
-        <translation>Проверить обновления (%1)</translation>
+        <translation>Обновления (%1)</translation>
     </message>
 </context>
 <context>
